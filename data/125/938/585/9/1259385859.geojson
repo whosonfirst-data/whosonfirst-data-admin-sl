@@ -41,7 +41,7 @@
         "gn:id":2407711
     },
     "wof:country":"SL",
-    "wof:geomhash":"76a74437ca59776a7d4a479cf860c8e6",
+    "wof:geomhash":"9d6d2f323555268b995beae3cd875c29",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     -11.0,
     9.48333
 ],
-  "geometry": {"coordinates":[-11.0,9.48333],"type":"Point"}
+  "geometry": {"coordinates":[-11,9.48333],"type":"Point"}
 }

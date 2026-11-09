@@ -38,7 +38,7 @@
         "gn:id":2410031
     },
     "wof:country":"SL",
-    "wof:geomhash":"160835eef9602533285acd38f1fae316",
+    "wof:geomhash":"a4d891755c45fc7e59c46d7f244ff887",
     "wof:hierarchy":[
         {
             "country_id":85632467,
@@ -61,5 +61,5 @@
     -11.75,
     8.0
 ],
-  "geometry": {"coordinates":[-11.75,8.0],"type":"Point"}
+  "geometry": {"coordinates":[-11.75,8],"type":"Point"}
 }
