@@ -1,0 +1,74 @@
+{
+  "id": 9895057219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.13308,8.03029,-11.13308,8.03029",
+    "geom:latitude":8.03029,
+    "geom:longitude":-11.13308,
+    "iso:country":"SL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13425844: name \"Fulawahun\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13425844"
+        },
+        {
+            "citation":"GeoNames populated place 13425844: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13425844"
+        },
+        {
+            "citation":"GeoNames populated place 13425844: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13425844"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890453879 (Kenema), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467,
+        85677133,
+        102191573,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13425844
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"efc9d92bad0b4ab40f4c63484666de8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":9895057219,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":9895057219,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Fulawahun",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.13308,
+    8.03029,
+    -11.13308,
+    8.03029
+],
+  "geometry": {"coordinates":[-11.13308,8.03029],"type":"Point"}
+}

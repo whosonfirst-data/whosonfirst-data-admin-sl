@@ -1,0 +1,74 @@
+{
+  "id": 9895057255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.65521,8.94663,-12.65521,8.94663",
+    "geom:latitude":8.94663,
+    "geom:longitude":-12.65521,
+    "iso:country":"SL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13426210: name \"Laia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13426210"
+        },
+        {
+            "citation":"GeoNames populated place 13426210: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13426210"
+        },
+        {
+            "citation":"GeoNames populated place 13426210: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13426210"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779065 (Port Loko), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467,
+        85677127,
+        102191573,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13426210
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"2ac44ec90914d4a5e8503066fd8d85ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":9895057255,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":9895057255,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Laia",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.65521,
+    8.94663,
+    -12.65521,
+    8.94663
+],
+  "geometry": {"coordinates":[-12.65521,8.94663],"type":"Point"}
+}

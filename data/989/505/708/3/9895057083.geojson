@@ -1,0 +1,74 @@
+{
+  "id": 9895057083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.98264,7.96397,-11.98264,7.96397",
+    "geom:latitude":7.96397,
+    "geom:longitude":-11.98264,
+    "iso:country":"SL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13425322: name \"Kowama\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13425322"
+        },
+        {
+            "citation":"GeoNames populated place 13425322: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13425322"
+        },
+        {
+            "citation":"GeoNames populated place 13425322: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13425322"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428997 (Bo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467,
+        85677119,
+        102191573,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13425322
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ece31f17787a7738782c0fd6d2d7fd85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":9895057083,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":9895057083,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Kowama",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.98264,
+    7.96397,
+    -11.98264,
+    7.96397
+],
+  "geometry": {"coordinates":[-11.98264,7.96397],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895057089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.63362,7.85193,-11.63362,7.85193",
+    "geom:latitude":7.85193,
+    "geom:longitude":-11.63362,
+    "iso:country":"SL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13425348: name \"Gangama\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13425348"
+        },
+        {
+            "citation":"GeoNames populated place 13425348: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13425348"
+        },
+        {
+            "citation":"GeoNames populated place 13425348: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13425348"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428997 (Bo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467,
+        85677119,
+        102191573,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13425348
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"bf41b9d819a72cf71b680dfa928a33f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":9895057089,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":9895057089,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Gangama",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.63362,
+    7.85193,
+    -11.63362,
+    7.85193
+],
+  "geometry": {"coordinates":[-11.63362,7.85193],"type":"Point"}
+}

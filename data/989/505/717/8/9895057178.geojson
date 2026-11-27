@@ -1,0 +1,74 @@
+{
+  "id": 9895057178,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.82957,9.08538,-12.82957,9.08538",
+    "geom:latitude":9.08538,
+    "geom:longitude":-12.82957,
+    "iso:country":"SL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13425686: name \"Maseri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13425686"
+        },
+        {
+            "citation":"GeoNames populated place 13425686: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13425686"
+        },
+        {
+            "citation":"GeoNames populated place 13425686: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13425686"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890453881 (Kambia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467,
+        85677127,
+        102191573,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13425686
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8ae65b4cf7db9b87eeb65019e57fc857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":9895057178,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":9895057178,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Maseri",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.82957,
+    9.08538,
+    -12.82957,
+    9.08538
+],
+  "geometry": {"coordinates":[-12.82957,9.08538],"type":"Point"}
+}

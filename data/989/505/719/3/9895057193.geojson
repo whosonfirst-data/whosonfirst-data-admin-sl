@@ -1,0 +1,74 @@
+{
+  "id": 9895057193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.12341,8.04809,-12.12341,8.04809",
+    "geom:latitude":8.04809,
+    "geom:longitude":-12.12341,
+    "iso:country":"SL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13425711: name \"Bandama\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13425711"
+        },
+        {
+            "citation":"GeoNames populated place 13425711: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13425711"
+        },
+        {
+            "citation":"GeoNames populated place 13425711: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13425711"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779067 (Moyamba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467,
+        85677119,
+        102191573,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13425711
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6c10a2481bc49c144fba5e3713f7aacc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":9895057193,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":9895057193,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Bandama",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.12341,
+    8.04809,
+    -12.12341,
+    8.04809
+],
+  "geometry": {"coordinates":[-12.12341,8.04809],"type":"Point"}
+}

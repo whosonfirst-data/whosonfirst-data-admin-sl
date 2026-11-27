@@ -1,0 +1,74 @@
+{
+  "id": 9895057133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.84415,8.47522,-10.84415,8.47522",
+    "geom:latitude":8.47522,
+    "geom:longitude":-10.84415,
+    "iso:country":"SL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13425536: name \"Bendu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13425536"
+        },
+        {
+            "citation":"GeoNames populated place 13425536: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13425536"
+        },
+        {
+            "citation":"GeoNames populated place 13425536: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13425536"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890421469 (Kono), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467,
+        85677133,
+        102191573,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13425536
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"bec1bdfa1e1b002bedc6051f06cd5d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":9895057133,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":9895057133,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Bendu",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.84415,
+    8.47522,
+    -10.84415,
+    8.47522
+],
+  "geometry": {"coordinates":[-10.84415,8.47522],"type":"Point"}
+}

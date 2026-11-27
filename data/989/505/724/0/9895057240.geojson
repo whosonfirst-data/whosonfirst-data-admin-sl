@@ -1,0 +1,74 @@
+{
+  "id": 9895057240,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.87495,8.90737,-12.87495,8.90737",
+    "geom:latitude":8.90737,
+    "geom:longitude":-12.87495,
+    "iso:country":"SL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13426180: name \"Malal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13426180"
+        },
+        {
+            "citation":"GeoNames populated place 13426180: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13426180"
+        },
+        {
+            "citation":"GeoNames populated place 13426180: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13426180"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779065 (Port Loko), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467,
+        85677127,
+        102191573,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13426180
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"cd66473cd25cefe24b2261b56ee6cc16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":9895057240,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":9895057240,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Malal",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.87495,
+    8.90737,
+    -12.87495,
+    8.90737
+],
+  "geometry": {"coordinates":[-12.87495,8.90737],"type":"Point"}
+}

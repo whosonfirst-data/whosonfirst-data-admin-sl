@@ -1,0 +1,74 @@
+{
+  "id": 9895057096,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.09534,7.76203,-11.09534,7.76203",
+    "geom:latitude":7.76203,
+    "geom:longitude":-11.09534,
+    "iso:country":"SL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13425393: name \"Giema\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13425393"
+        },
+        {
+            "citation":"GeoNames populated place 13425393: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13425393"
+        },
+        {
+            "citation":"GeoNames populated place 13425393: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13425393"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890453879 (Kenema), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467,
+        85677133,
+        102191573,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13425393
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"bb34cc06ab293ba001f129d85c6f1c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":9895057096,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":9895057096,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Giema",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.09534,
+    7.76203,
+    -11.09534,
+    7.76203
+],
+  "geometry": {"coordinates":[-11.09534,7.76203],"type":"Point"}
+}

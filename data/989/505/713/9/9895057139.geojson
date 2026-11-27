@@ -1,0 +1,74 @@
+{
+  "id": 9895057139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.30402,8.42713,-10.30402,8.42713",
+    "geom:latitude":8.42713,
+    "geom:longitude":-10.30402,
+    "iso:country":"SL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13425564: name \"Gbondu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13425564"
+        },
+        {
+            "citation":"GeoNames populated place 13425564: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13425564"
+        },
+        {
+            "citation":"GeoNames populated place 13425564: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13425564"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890421475 (Kailahun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467,
+        85677133,
+        102191573,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13425564
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"56c6819c3618c71b29c4856404712d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":9895057139,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":9895057139,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Gbondu",
+    "wof:parent_id":890421475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.30402,
+    8.42713,
+    -10.30402,
+    8.42713
+],
+  "geometry": {"coordinates":[-10.30402,8.42713],"type":"Point"}
+}

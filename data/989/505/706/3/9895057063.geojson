@@ -1,0 +1,74 @@
+{
+  "id": 9895057063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.54925,9.62963,-11.54925,9.62963",
+    "geom:latitude":9.62963,
+    "geom:longitude":-11.54925,
+    "iso:country":"SL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13425246: name \"Madina\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13425246"
+        },
+        {
+            "citation":"GeoNames populated place 13425246: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13425246"
+        },
+        {
+            "citation":"GeoNames populated place 13425246: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13425246"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890421473 (Koinadugu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467,
+        85677127,
+        102191573,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13425246
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3d7070025c287e6033d28dc540a2145e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":9895057063,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":9895057063,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Madina",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.54925,
+    9.62963,
+    -11.54925,
+    9.62963
+],
+  "geometry": {"coordinates":[-11.54925,9.62963],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895057321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.07408,9.05089,-12.07408,9.05089",
+    "geom:latitude":9.05089,
+    "geom:longitude":-12.07408,
+    "iso:country":"SL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13426536: name \"Mafure\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13426536"
+        },
+        {
+            "citation":"GeoNames populated place 13426536: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13426536"
+        },
+        {
+            "citation":"GeoNames populated place 13426536: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13426536"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428993 (Bombali), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467,
+        85677127,
+        102191573,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13426536
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"434e157b305d96580053424f0373b0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":9895057321,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":9895057321,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Mafure",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.07408,
+    9.05089,
+    -12.07408,
+    9.05089
+],
+  "geometry": {"coordinates":[-12.07408,9.05089],"type":"Point"}
+}

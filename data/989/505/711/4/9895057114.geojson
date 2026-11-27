@@ -1,0 +1,74 @@
+{
+  "id": 9895057114,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.78394,8.39249,-11.78394,8.39249",
+    "geom:latitude":8.39249,
+    "geom:longitude":-11.78394,
+    "iso:country":"SL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13425443: name \"Tendokom\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13425443"
+        },
+        {
+            "citation":"GeoNames populated place 13425443: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13425443"
+        },
+        {
+            "citation":"GeoNames populated place 13425443: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13425443"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890421467 (Tonkolili), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467,
+        85677127,
+        102191573,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13425443
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a47a6404ed82313cd696c69173a846f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":9895057114,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":9895057114,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Tendokom",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.78394,
+    8.39249,
+    -11.78394,
+    8.39249
+],
+  "geometry": {"coordinates":[-11.78394,8.39249],"type":"Point"}
+}

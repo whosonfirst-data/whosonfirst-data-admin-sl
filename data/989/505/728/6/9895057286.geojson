@@ -1,0 +1,74 @@
+{
+  "id": 9895057286,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.41582,9.18442,-12.41582,9.18442",
+    "geom:latitude":9.18442,
+    "geom:longitude":-12.41582,
+    "iso:country":"SL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13426411: name \"Wari\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13426411"
+        },
+        {
+            "citation":"GeoNames populated place 13426411: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13426411"
+        },
+        {
+            "citation":"GeoNames populated place 13426411: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13426411"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428993 (Bombali), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467,
+        85677127,
+        102191573,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13426411
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e0def0d581625b6ce2f90f4a4d691f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":9895057286,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":9895057286,
+    "wof:lastmodified":1795735055,
+    "wof:name":"Wari",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.41582,
+    9.18442,
+    -12.41582,
+    9.18442
+],
+  "geometry": {"coordinates":[-12.41582,9.18442],"type":"Point"}
+}

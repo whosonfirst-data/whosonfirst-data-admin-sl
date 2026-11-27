@@ -1,0 +1,75 @@
+{
+  "id": 9895093103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.21457,8.46596,-12.21457,8.46596",
+    "geom:latitude":8.46596,
+    "geom:longitude":-12.21457,
+    "gn:population":15491,
+    "iso:country":"SL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12718740: name \"Mile 91\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12718740"
+        },
+        {
+            "citation":"GeoNames populated place 12718740: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12718740"
+        },
+        {
+            "citation":"GeoNames populated place 12718740: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12718740"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890421467 (Tonkolili), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467,
+        85677127,
+        102191573,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12718740
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"908ee363e73e2894563def78dc9c4a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":9895093103,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":9895093103,
+    "wof:lastmodified":1795747458,
+    "wof:name":"Mile 91",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.21457,
+    8.46596,
+    -12.21457,
+    8.46596
+],
+  "geometry": {"coordinates":[-12.21457,8.46596],"type":"Point"}
+}
