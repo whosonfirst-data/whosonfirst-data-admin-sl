@@ -1,0 +1,78 @@
+{
+  "id": 9895094843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.70098,9.12379,-12.70098,9.12379",
+    "geom:latitude":9.12379,
+    "geom:longitude":-12.70098,
+    "gn:population":1162065,
+    "iso:country":"SL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 11919533 (North West Province): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11919533"
+        },
+        {
+            "citation":"GeoNames division 11919533 (North West Province): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11919533"
+        },
+        {
+            "citation":"GeoNames division 11919533 (North West Province): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11919533"
+        },
+        {
+            "citation":"GeoNames division 11919533 (North West Province): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/11919533"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "North West"
+    ],
+    "name:eng_x_variant":[
+        "North West Province"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11919533
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ecb27acadaa824ecc2e3a9d1fc449f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "region_id":9895094843
+        }
+    ],
+    "wof:id":9895094843,
+    "wof:lastmodified":1795801364,
+    "wof:name":"North West",
+    "wof:parent_id":85632467,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.70098,
+    9.12379,
+    -12.70098,
+    9.12379
+],
+  "geometry": {"coordinates":[-12.70098,9.12379],"type":"Point"}
+}
